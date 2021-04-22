@@ -1,0 +1,9 @@
+boto3==1.16.31
+Flask==1.1.2
+
+botocore==1.19.31
+Jinja2~=2.11.3
+Werkzeug~=1.0.1
+itsdangerous~=1.1.0
+click~=7.1.2
+MarkupSafe~=1.1.1
